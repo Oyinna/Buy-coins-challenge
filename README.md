@@ -1,5 +1,5 @@
 ## BuyCoins Challenge
-BuyCoins Challenge is an API displaying a responsive table of different crypto currencies with their symblos, prices in USD and their total supply.
+BuyCoins Challenge is an app displaying a responsive table of different cryptocurrency with their symblos, prices in USD and their total supply.
 ## Features
 - Resposive table dispay
 - Fetch data from an API
