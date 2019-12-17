@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.pagination{
+  display:flex;
+  justify-content:space-around;
+}
+.pagination button {
+  padding: 2px 8px;
+}
+
+
+
+

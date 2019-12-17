@@ -1,0 +1,48 @@
+.BuyCoinsTable{
+    width:60%;
+    margin:16px auto;
+    border:1px solid #eee;
+    box-shadow:0 2px 3px #ccc;
+    padding: 16px;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+    min-width: 110px;
+  }
+ thead th{
+      background-color:#fff
+  }
+  
+  tr:nth-child(odd), tfoot tr {background-color: #eaeaea;}
+
+tr.mobile {
+    display: none;
+}
+@media (max-width: 600px) {
+    tr.mobile {
+        display: block;
+    }
+    tr:not(.mobile) {
+        display: none;
+    }
+    tr p {
+        margin: 0 2px;
+    }
+    tr p:first-child {
+        font-weight: 600;
+    }
+    tfoot tr {
+        display: block !important;
+    }
+    th.mob {
+        display: none;
+    }
+}
