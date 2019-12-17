@@ -8,11 +8,11 @@ BuyCoins Challenge is an app displaying a responsive table of different cryptocu
 ## Technology used
 REACT
 ## Installation
--Requires Node js, Version 8 or higher
--Then clone the repository or download and uncompress:
--git clone https://github.com/Oyinna/Buy-coins-challenge.git
--Start the App by running:
-npm install
-npm start
+- Requires Node js, Version 8 or higher
+- Then clone the repository or download and uncompress:
+- git clone https://github.com/Oyinna/Buy-coins-challenge.git
+- Start the App by running:
+* npm install
+* npm start
 ## Acknoledgement
 This is BuyCoins UI Developer Challenge, Thanks to BuyCoins.
