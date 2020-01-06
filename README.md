@@ -14,5 +14,5 @@ REACT
 - Start the App by running:
 * npm install
 * npm start
-## Acknoledgement
+## Acknowledgement
 This is BuyCoins UI Developer Challenge, Thanks to BuyCoins.
